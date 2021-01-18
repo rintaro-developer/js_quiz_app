@@ -1,4 +1,1 @@
-＃一般
-常識クイズ
-のソース
-です
+# quiz game with JavaScript
